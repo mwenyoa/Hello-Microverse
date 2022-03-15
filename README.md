@@ -1,56 +1,40 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello-Microverse
+ 
 
 > Description the project.
-
+This a Hello Microverse project to make us familiar with tools(like **linters**) that we will be using during the whole program. 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML
+- CSS
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+- Have some knowledge about HTML and CSS
+- Be familiar with git commands
+- Basics understanding of Linters
 ### Setup
-
+- Run [git clone https://github.com/mwenyoa/Hello-Microverse.git] 
 ### Install
-
-### Usage
+- Run [npm install] to install all project dependencies
 
 ### Run tests
-
-### Deployment
-
-
+- Run [npx hintrc .] to test the markup
+- Run [npx stylelint "**/**.{css,scss}] to test the stylesheet
 
 ## Authors
 
-👤 **Author1**
+👤 **Anthony Mwenyo**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@mwenyoa](https://github.com/mwenyoa)
+- Twitter: [@anthony_mwenyo](https://twitter.com/anthony_mwenyo)
+- LinkedIn: [@anthony-mwenyo](https://linkedin.com/in/anthony-mwenyo)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
