@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
- Hello-Microverse
+# Hello-Microverse
+ 
 
 > Description the project.
 This a Hello Microverse project to make us familiar with tools(like **linters**) that we will be using during the whole program. 
@@ -10,11 +10,6 @@ This a Hello Microverse project to make us familiar with tools(like **linters**)
 
 - HTML
 - CSS
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
@@ -34,7 +29,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Anthony Mwenyo**
 
 - GitHub: [@mwenyoa](https://github.com/mwenyoa)
 - Twitter: [@anthony_mwenyo](https://twitter.com/anthony_mwenyo)
